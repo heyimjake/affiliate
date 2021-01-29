@@ -1,1 +1,1 @@
-worker: python affiliatet.py
+web: python affiliatet.py 
